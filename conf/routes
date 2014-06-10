@@ -1,0 +1,2 @@
+GET     /:id                           controllers.Application.get(id)
+POST    /:id                           controllers.Application.post(id)
